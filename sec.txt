@@ -1,0 +1,5 @@
+SEC Man :- http://simple-evcorr.github.io/
+
+Git repo :- https://github.com/simple-evcorr/sec
+
+Examples for Sec rules:- http://simple-evcorr.sourceforge.net/SEC-tutorial/article.html
